@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "password": "admin",
+        "theme": "dark",
+        "wallpaper": "#1e1e2e"
+    },
+    "Twin": {
+        "password": "12345678",
+        "theme": "dark",
+        "wallpaper": "#1e1e2e"
+    }
+}
