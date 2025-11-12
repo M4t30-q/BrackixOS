@@ -20,20 +20,19 @@ BrackixOS is a Python-based desktop environment simulation with multiple applica
 python3 -m venv venv
 source venv/bin/activate
 
-text
+
 
 On Windows:
 
 python -m venv venv
 venv\Scripts\activate
 
-text
 
 4. Install required dependencies:
 
 pip install -r requirements.txt
 
-text
+
 
 ## Running the Application
 
@@ -41,7 +40,7 @@ To start BrackixOS:
 
 python main.py
 
-text
+
 
 ## Notes
 
@@ -56,7 +55,7 @@ text
 PySide6==6.5.1
 PySide6-WebEngine==6.5.1
 
-text
+
 
 ---
 
